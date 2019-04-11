@@ -5,3 +5,6 @@
 Repeat for value iteration, q-learning algorithms
 
 All credit for graphs and grids created go to the creators for the reinforcement learning gui, taken from https://www.cs.cmu.edu/~awm/rlsim/
+
+Github link:
+https://github.com/jminowa3/MDP
